@@ -20,10 +20,8 @@ async def main():
         await asyncio.sleep(1)
     user=ws.user_json
     search=ws.search_json
-    print(user)
-    print(search)
 
-    #json_lesson=roadmap(user_json=user,search_json=search)
+    json_lesson=roadmap(user_json=user,search_json=search)
 
     
     course_data = {
