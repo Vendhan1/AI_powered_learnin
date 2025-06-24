@@ -26,7 +26,7 @@ async def main():
     #json_lesson=roadmap(user_json=user,search_json=search)
 
     
-    '''course_data = {
+    course_data = {
     "name": json_lesson['Course_name'],
     "topics": []
     }
@@ -61,7 +61,7 @@ async def main():
 
         topic_data["subtopics"].append(subtopic_data)
 
-    course_data["topics"].append(topic_data)'''
+    course_data["topics"].append(topic_data)
 
 
 
