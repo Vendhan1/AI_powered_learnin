@@ -1,0 +1,15 @@
+# Flutter ignores
+flutter_frontend/build/
+flutter_frontend/.dart_tool/
+flutter_frontend/.idea/
+flutter_frontend/.packages
+flutter_frontend/.flutter-plugins
+
+# Python ignores
+python_backend/__pycache__/
+python_backend/*.pyc
+python_backend/.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
